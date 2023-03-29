@@ -55,8 +55,8 @@ y_predicted1=m*3+b
 print(y_predicted1)
 
 ## Output:
-![output](.//ML1.png)
-![output](.//ML2.png)
+![ML2](https://user-images.githubusercontent.com/129285967/228526119-8b364e7a-50e4-4675-80f7-6aba6f43ae94.png)
+
 
 
 ## Result:
