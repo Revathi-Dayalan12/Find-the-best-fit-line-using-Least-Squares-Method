@@ -53,6 +53,7 @@ plt.show()
 y_predicted1=m*3+b
 print(y_predicted1)
 
+```
 ## Output:
 ![ML2](https://user-images.githubusercontent.com/129285967/228526119-8b364e7a-50e4-4675-80f7-6aba6f43ae94.png)
 ![ML1](https://user-images.githubusercontent.com/129285967/228526325-e365ad1c-f8bf-4552-a554-1f70f10f7cbf.png)
